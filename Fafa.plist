@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="ver 2015.11.03 1.0(20151103)">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://192.168.96.22:8099/20151103/Fafa.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>http://192.168.96.22:8099/20151103/Fafa.png</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>http://192.168.96.22:8099/20151103/Fafa.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.run588.Fafa</string>
+          <key>bundle-version</key>
+          <string>1.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>subtitle</key>
+          <string></string>
+          <key>title</key>
+          <string>Fafa</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
